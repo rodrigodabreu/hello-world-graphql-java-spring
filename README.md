@@ -1,6 +1,6 @@
 # Hello World GraphQL Java Spring
 
-Um projeto demo de **Forum** utilizando GraphQL com Spring Boot, que permite criar posts e comentários através de uma API GraphQL.
+Um projeto demo de um **Fórum** utilizando GraphQL com Spring Boot e Java 17, que permite criar posts e comentários através de uma API GraphQL.
 
 ## 🚀 Tecnologias Utilizadas
 
